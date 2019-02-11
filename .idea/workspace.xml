@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daaeb5dd-2c08-41e4-a58e-6b6fedb42755" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/FunctionsUseExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsUseExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcerciseStudents.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FunctionsUseExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+            <state relative-caret-position="48">
+              <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExcerciseStudents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -116,6 +125,7 @@
         <option value="$PROJECT_DIR$/DictionaryUseExamples.py" />
         <option value="$PROJECT_DIR$/ExcepcionesUseExamples.py" />
         <option value="$PROJECT_DIR$/FunctionsUseExample.py" />
+        <option value="$PROJECT_DIR$/ExcerciseStudents.py" />
       </list>
     </option>
   </component>
@@ -157,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FunctionsUseExample">
+  <component name="RunManager" selected="Python.ExcerciseStudents">
     <configuration name="DictionaryUseExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PluralsightCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ForUseExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ExcerciseStudents" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PluralsightCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForUseExamples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcerciseStudents.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ExcerciseStudents" />
         <item itemvalue="Python.FunctionsUseExample" />
         <item itemvalue="Python.ExcepcionesUseExamples" />
         <item itemvalue="Python.DictionaryUseExamples" />
         <item itemvalue="Python.WhileUseExamples" />
-        <item itemvalue="Python.ForUseExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -368,8 +378,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsUseExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+        <state relative-caret-position="48">
+          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExcerciseStudents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
         </state>
       </provider>
     </entry>
